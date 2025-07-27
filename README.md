@@ -1,6 +1,6 @@
 ## Hi there, I'm Henri 👋
 
-Doing casual coding on Pimcore and Shopware related projects.
+Doing casual coding on Pimcore and Shopware 6 related projects.
 
 ### Earned Achievements:
 
