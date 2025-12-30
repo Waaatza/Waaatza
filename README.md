@@ -6,10 +6,10 @@ Doing casual coding on Pimcore and Shopware 6 related projects.
 
 ![Pimcore-Certificate](./assets/junior-dev.png)
 
+<!--
 ### Stats:
 [![Watza's GitHub stats](https://github-readme-stats.vercel.app/api?username=waaatza)](https://github.com/waaatza/github-readme-stats)
 
-<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
