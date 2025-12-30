@@ -1,4 +1,4 @@
-## Hi there, I'm Henri 👋
+## Hi there, I'm Henri
 
 Doing casual coding on Pimcore and Shopware 6 related projects.
 
@@ -9,6 +9,10 @@ Doing casual coding on Pimcore and Shopware 6 related projects.
 
 ![Pimcore-Senior-Dev-Certificate](./assets/senior-dev.png)
 (Valid until: 30.12.2026)
+
+![Pimcore-Product-Expert-Certificate](./assets/product-expert.png)
+(Valid until: 30.12.2026)
+
 <!--
 ### Stats:
 [![Watza's GitHub stats](https://github-readme-stats.vercel.app/api?username=waaatza)](https://github.com/waaatza/github-readme-stats)
