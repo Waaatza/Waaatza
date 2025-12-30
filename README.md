@@ -5,12 +5,17 @@ Doing casual coding on Pimcore and Shopware 6 related projects.
 ### Earned Achievements:
 
 <img src="./assets/junior-dev.png" width="200"/>
+
 (Valid until: 14.02.2026)
 
+
 <img src="./assets/senior-dev.png" width="200"/>
+
 (Valid until: 30.12.2026)
 
+
 <img src="./assets/product-expert.png" width="200"/>
+
 (Valid until: 30.12.2026)
 
 <!--
