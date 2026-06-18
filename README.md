@@ -4,7 +4,7 @@ Doing coding on Pimcore and Shopware 6 related projects.
 
 ### Pimcore Certifications
 
-The date beneath the certification shows how long the certificate is still vaild.
+The date beneath the certification shows how long the certificate is still valid.
 
 | Pimcore Junior Developer | Pimcore Senior Developer |
 |--------------------------|-------------------------|
