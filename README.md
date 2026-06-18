@@ -4,6 +4,8 @@ Doing coding on Pimcore and Shopware 6 related projects.
 
 ### Pimcore Certifications
 
+The date beneath the certification shows how long the certificate is still vaild.
+
 | Pimcore Junior Developer | Pimcore Senior Developer |
 |--------------------------|-------------------------|
 | needs renewal | 30 Dec 2026 |
